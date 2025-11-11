@@ -1,0 +1,64 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="try.css">
+</head>
+<body>
+    <div style="background-color: black; color: white; height:
+    8vh; display: flex; justify-content: space-between;
+    align-items: center;">
+
+        <div style="margin-left: 10px; ">BBC</div>
+
+        <div style="display: flex; gap:8px">
+
+        <button class="nav-button">Home</button>
+
+        <button class="nav-button"> About </button>
+
+        <button class="nav-button">Service</button>
+
+        <button class="nav-button">Contact</button>
+
+        </div>
+
+
+        <div style="display: flex; gap:8px">
+
+        <button style="background: none; border: 2px solid white; color: white; border-radius: 5px; font-size: 16px; padding: 8px 16px; ">Login</button>
+
+        <button class="signup-btn">Signup</button>
+        </div>
+
+    </div>
+
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+        <div style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgb(113, 113, 113); overflow: hidden;">
+            <div style="position: relative;">
+                <img src="https://i.ytimg.com/vi/JldMvQMO_5U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMWbB4SGddM540ALABGCJ-3fEcLw" alt="Game" style="width:px; height:200px;">
+                <span style="background-image: linear-gradient(to right, red,orange); border-radius: 10px; padding: 2px 10px; position: absolute; top: 10px; right: 10px; color: aliceblue; font-weight: 700;">AMAZING!</span>
+            </div>
+            <div>
+                <h2 style="margin: 5px 10px; font-size: 1.1rem; font-weight: 600;">ELDEN RING</h2>
+                <p style="margin: 5px 10px; font-weight: 200;">Elden Ring is a 2022 action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It was directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. R. Martin.. </p>
+                <div style="display:flex; align-items: center; justify-content: space-between;">
+                    <div style="display: flex; align-items:center;">
+                        <img src="https://lastfm.freetls.fastly.net/i/u/ar0/b905557377fd09cc71b35045771307bf.jpg" style="width: 50px; height: 50px; border-radius: 50%; margin: 10px 10px 10px 10px; object-fit:cover;">
+                        <span style="color: black;">FromSoftware Inc.</span>
+                    </div>
+                    <div style="margin: 10px">
+                        <span>🔥</span>
+                        <span>🤯</span>
+                        <span>🤑</span>
+
+                    </div>
+                </div>
+            </div> 
+        </div>
+</div>
+
+</body>
+
+</html>
